@@ -24,7 +24,7 @@ const neynarApiKey = config.neynarApiKey as string;
 const privateKey = config.aaPrivateKey as Hex;
 const pimlicoApiKey = config.pimlicoApiKey as string;
 
-const degenAddress = "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed";
+const degenAddress = "0xAfb89a09D82FBDE58f18Ac6437B3fC81724e4dF6";
 const nftAddress = "0x02a94f6292a00233eb07b2d8d403e911924e1948";
 
 export default defineEventHandler(async (event) => {
