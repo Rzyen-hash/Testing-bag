@@ -1,1 +1,1 @@
-<template>Nothing to see here!</template>
+<template>Testing bag only!</template>
